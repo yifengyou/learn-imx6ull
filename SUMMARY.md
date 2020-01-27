@@ -1,33 +1,6 @@
-# 跟原子哥学嵌入式
+# Summary
 
-```
-正点原子，嵌入式教育领导者。专注嵌入式教学十余年，
-出版十余本嵌入式教学书籍，录制近千讲嵌入式教学视频。
-开发设计数十款嵌入式开发平台，是国内用户最多的开发平台供应商。
-```
-
-![20200127_161050_86](image/20200127_161050_86.png)
-
-
-## 本仓库内容
-
-1. 正点原子相关课程(公开内容)学习笔记
-
-```
-Something I hope you know before go into the coding~
-First, please watch or star this repo, I'll be more happy if you follow me.
-Bug report, questions and discussion are welcome, you can post an issue or pull a request.
-```
-
-## 相关站点
-
-* GitBook:<https://yifengyou.gitbooks.io/learn-yuanzige/content/>
-* GitHub:<https://github.com/yifengyou/learn-yuanzige/>
-* GitPage:<https://yifengyou.github.io/learn-yuanzige/>
-
-
-## 目录
-
+* [读我](README.md)
 * [Alpha Linux开发板](docs/AlphaLinux开发板.md)
     * [Ubuntu入门](docs/AlphaLinux开发板/Ubuntu入门.md)
         * [开发电脑的选择](docs/AlphaLinux开发板/Ubuntu入门/开发电脑的选择.md)
@@ -72,13 +45,3 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
         * [Linux LED灯驱动实验(直接操作寄存器)-LED灯初始化](docs/AlphaLinux开发板/Linux驱动开发/LinuxLED灯驱动实验[直接操作寄存器]-LED灯初始化.md)
         * [Linux LED灯驱动实验(直接操作寄存器)-完善驱动与应用](docs/AlphaLinux开发板/Linux驱动开发/LinuxLED灯驱动实验[直接操作寄存器]-完善驱动与应用.md)
         * [Linux新字符设备驱动实验-新驱动框架的搭建](docs/AlphaLinux开发板/Linux驱动开发/Linux新字符设备驱动实验-新驱动框架的搭建.md)
-
-## 参考
-
-* 正点原子官方B站 : <https://space.bilibili.com/394620890?spm_id_from=333.788.b_765f7570696e666f.2>
-* OpenEdv-开源电子网-正点原子论坛 : <https://www.openedv.com>
-* 正点原子嵌入式物联网品牌店 : <https://openedv.taobao.com>
-
-
-
-## 小结
